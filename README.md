@@ -18,6 +18,7 @@
 | [KerbolPlus Revived](https://github.com/KillAshley/KPRevival)                           |       | **IN DEVELOPMENT**
 | [Keridani](http://forum.kerbalspaceprogram.com/threads/136903)                          | 0.4   | Adds a star, 4 planets, 6 moons and an asteroid.
 | [Kronkus](http://forum.kerbalspaceprogram.com/threads/132379)                           | 0.4   | Adds a gas giant and 4 moons.
+| [Ktolemy](http://forum.kerbalspaceprogram.com/threads/137299)                           | 0.4   | Makes Kerbin the center of the Kerbol System and reparents planets.
 | [LibraCORE](http://forum.kerbalspaceprogram.com/threads/137791)                         | 0.4   | Adds a star.
 | [New Horizons](http://forum.kerbalspaceprogram.com/threads/114092)                      | 0.3.3 | Rearranges the Kerbol system and adds 3 gas giants, 4 planets and 12 moons.
 | [Other_Worlds](http://forum.kerbalspaceprogram.com/threads/128695)                      | 0.3.3 | Adds a new star with 5 planets and 7 moons.
@@ -33,5 +34,6 @@
 | [The Boris System](http://forum.kerbalspaceprogram.com/threads/70018)                   | 0.2.4 | Adds a gas giant, 3 planets and 12 moons.
 | [The Gliese-581 Star System](http://forum.kerbalspaceprogram.com/threads/137319)        | 0.4   | Adds a star, a gas giant, 3 planets and 4 moons.  **(Requires LibraCORE)**
 | [The Sonne System](http://forum.kerbalspaceprogram.com/threads/137178)                  |       | **IN DEVELOPMENT**
+| [Toy Solar System](http://forum.kerbalspaceprogram.com/threads/137234)                  | 0.4   | Rescales all the planets to 1/10th their size.
 | [Trans-Keptunian](http://forum.kerbalspaceprogram.com/threads/109125)                   | 0.0.7 | Adds 4 planets and 5 moons.
 | [Uncharted Lands](http://forum.kerbalspaceprogram.com/threads/133416)                   | 0.4   | Rearranges the Kerbol system and changes them completely.
