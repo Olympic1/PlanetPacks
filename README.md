@@ -14,7 +14,6 @@
 | [Kerbal Outer Bodies Expansion](http://forum.kerbalspaceprogram.com/threads/134098)     |       | **IN DEVELOPMENT**
 | [Kerbal Planetary Expansion](https://kerbalstuff.com/mod/1140)                          | 0.4   | Adds 2 gas giants, a planet and 3 moons.
 | [KerbalGalaxy 2](http://forum.kerbalspaceprogram.com/threads/125078)                    | 0.3.3 | Makes the sun a black hole, adds a black hole, 8 stars, 17 planets, 7 moons and a wormhole.
-| [Kerbalized Realistic Solar System](http://forum.kerbalspaceprogram.com/threads/135785) | 0.4   | Rearranges the Kerbol System.  **(Requires OuterPlanetsMod and KerbolPlus)**
 | [KerbolPlus](http://forum.kerbalspaceprogram.com/threads/118643)                        | 0.2.4 | Adds a gas giant, 6 planets, 14 moons and a comet.
 | [KerbolPlus Revived](https://github.com/KillAshley/KPRevival)                           |       | **IN DEVELOPMENT**
 | [Keridani](http://forum.kerbalspaceprogram.com/threads/136903)                          | 0.4   | Adds a star, 4 planets, 6 moons and an asteroid.
