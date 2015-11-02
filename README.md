@@ -25,7 +25,7 @@
 | [New Horizons](http://forum.kerbalspaceprogram.com/threads/114092)                      | 0.4   | Yes | Rearranges the Kerbol system and adds 3 gas giants, 4 planets and 12 moons.
 | [Other_Worlds](http://forum.kerbalspaceprogram.com/threads/128695)                      | 0.4   | Yes | Adds a new star with 5 planets and 7 moons.
 | [Outer Planets Mod](http://forum.kerbalspaceprogram.com/threads/104280)                 | 0.4   | Yes | Adds 3 gas giants, a planet, 10 moons and a sub-moon.
-| [Real Solar System](http://forum.kerbalspaceprogram.com/threads/55145)                  | 0.2.4 | Yes | Changes the Kerbol system to our own Solar System.
+| [Real Solar System](http://forum.kerbalspaceprogram.com/threads/55145)                  | 0.4   | Yes | Changes the Kerbol system to our own Solar System.
 | [RHAT's Planet pack](http://RPMKSP.COMOJ.COM)                                           | 0.2.4 | WIP | Adds a new gas giant.
 | [RSS Expanded](http://forum.kerbalspaceprogram.com/threads/129098)                      | 0.2.4 | No  | Adds 2 planets, 12 moons, 6 asteroids and a comet to RSS.  **(Requires Real Solar System)**
 | [Saru Planet Pack](http://forum.kerbalspaceprogram.com/threads/132453)                  |       | No  | **IN DEVELOPMENT**
