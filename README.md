@@ -16,7 +16,7 @@
 | [Kerbal Outer Bodies Expansion](http://forum.kerbalspaceprogram.com/threads/134098)     |       | No  | **IN DEVELOPMENT**
 | [Kerbal Planetary Expansion](https://kerbalstuff.com/mod/1140)                          | 0.4   | No  | Adds 2 gas giants, a planet and 3 moons.
 | [KerbalGalaxy 2](http://forum.kerbalspaceprogram.com/threads/125078)                    | 0.3.3 | No  | Makes the sun a black hole, adds a black hole, 8 stars, 17 planets, 7 moons and a wormhole.
-| [KerbolPlus](http://forum.kerbalspaceprogram.com/threads/118643)                        | 0.3.3 | WIP | Adds a gas giant, 6 planets, 14 moons and a comet.
+| [KerbolPlus](http://forum.kerbalspaceprogram.com/threads/118643)                        | 0.4   | WIP | Adds a gas giant, 6 planets, 14 moons and a comet.
 | [KerbolPlus Revived](https://github.com/KillAshley/KPRevival)                           |       | WIP | **IN DEVELOPMENT**
 | [Keridani](http://forum.kerbalspaceprogram.com/threads/136903)                          | 0.4   | WIP | Adds a star, 4 planets, 6 moons and an asteroid.
 | [Kronkus](http://forum.kerbalspaceprogram.com/threads/132379)                           | 0.4   | Yes | Adds a gas giant and 4 moons.
@@ -27,7 +27,7 @@
 | [Outer Planets Mod](http://forum.kerbalspaceprogram.com/threads/104280)                 | 0.4   | Yes | Adds 3 gas giants, a planet, 10 moons and a sub-moon.
 | [Real Solar System](http://forum.kerbalspaceprogram.com/threads/55145)                  | 0.4   | Yes | Changes the Kerbol system to our own Solar System.
 | [RHAT's Planet pack](http://RPMKSP.COMOJ.COM)                                           | 0.2.4 | WIP | Adds a new gas giant.
-| [RSS Expanded](http://forum.kerbalspaceprogram.com/threads/129098)                      | 0.2.4 | No  | Adds 2 planets, 12 moons, 6 asteroids and a comet to RSS.  **(Requires Real Solar System)**
+| [RSS Expanded](http://forum.kerbalspaceprogram.com/threads/129098)                      | 0.4   | No  | Adds 2 planets, 12 moons, 6 asteroids and a comet to RSS.  **(Requires Real Solar System)**
 | [Saru Planet Pack](http://forum.kerbalspaceprogram.com/threads/132453)                  |       | No  | **IN DEVELOPMENT**
 | [Sentar Expansion](http://forum.kerbalspaceprogram.com/threads/130329)                  | 0.3.3 | Yes | Adds a gas giant, 4 planets and 7 moons.
 | [Sido's Urania System](http://forum.kerbalspaceprogram.com/threads/66882)               | 0.4   | Yes | Adds a gas giant, 6 planets and 8 moons.
