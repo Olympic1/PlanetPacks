@@ -31,6 +31,8 @@
 | [Saru Planet Pack](http://forum.kerbalspaceprogram.com/threads/132453)                  |       | No  | **IN DEVELOPMENT**
 | [Sentar Expansion](http://forum.kerbalspaceprogram.com/threads/130329)                  | 0.3.3 | Yes | Adds a gas giant, 4 planets and 7 moons.
 | [Sido's Urania System](http://forum.kerbalspaceprogram.com/threads/66882)               | 0.4   | Yes | Adds a gas giant, 6 planets and 8 moons.
+| [Sigma: Eve Recolor](http://forum.kerbalspaceprogram.com/threads/136075)               | 0.4   | NO | Changes Eve to be colored like Venus.
+| [Sigma: Jool Recolor](http://forum.kerbalspaceprogram.com/threads/136103)               | 0.4   | NO | Changes Jool to be colored like Jupiter.
 | [Sigma: OPM Recolor](http://forum.kerbalspaceprogram.com/threads/135895)               | 0.4   | NO | Alternate colors for OPM Gas Giants  **(Requires Outer Planets Mod)**
 | [Sigma: OPM Tilt](http://forum.kerbalspaceprogram.com/threads/135899)               | 0.4   | NO | Gives Urlum (OPM) a 90° axial tilt.  **(Requires Outer Planets Mod)**
 | [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/threads/135881)               | 0.4   | WIP | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
