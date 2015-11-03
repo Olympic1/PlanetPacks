@@ -27,11 +27,13 @@
 | [Outer Planets Mod](http://forum.kerbalspaceprogram.com/threads/104280)                 | 0.4   | Yes | Adds 3 gas giants, a planet, 10 moons and a sub-moon.
 | [Real Solar System](http://forum.kerbalspaceprogram.com/threads/55145)                  | 0.4   | Yes | Changes the Kerbol system to our own Solar System.
 | [RHAT's Planet pack](http://RPMKSP.COMOJ.COM)                                           | 0.2.4 | WIP | Adds a new gas giant.
-| [RSS Expanded](http://forum.kerbalspaceprogram.com/threads/129098)                      | 0.4   | No  | Adds 2 planets, 12 moons, 6 asteroids and a comet to RSS.  **(Requires Real Solar System)**
+| [RSS Expanded](http://forum.kerbalspaceprogram.com/threads/129098)                      | 0.4   | WIP  | Adds 2 planets, 12 moons, 6 asteroids and a comet to RSS.  **(Requires Real Solar System)**
 | [Saru Planet Pack](http://forum.kerbalspaceprogram.com/threads/132453)                  |       | No  | **IN DEVELOPMENT**
 | [Sentar Expansion](http://forum.kerbalspaceprogram.com/threads/130329)                  | 0.3.3 | Yes | Adds a gas giant, 4 planets and 7 moons.
 | [Sido's Urania System](http://forum.kerbalspaceprogram.com/threads/66882)               | 0.4   | Yes | Adds a gas giant, 6 planets and 8 moons.
-| [Sigma OPM Expansion](http://forum.kerbalspaceprogram.com/threads/112095)               | 0.4   | WIP | New textures, tilt Urlum 90° or make Plock a binary system.  **(Requires Outer Planets Mod)**
+| [Sigma: OPM Recolor](http://forum.kerbalspaceprogram.com/threads/135895)               | 0.4   | NO | Alternate colors for OPM Gas Giants  **(Requires Outer Planets Mod)**
+| [Sigma: OPM Tilt](http://forum.kerbalspaceprogram.com/threads/135899)               | 0.4   | NO | Gives Urlum (OPM) a 90° axial tilt.  **(Requires Outer Planets Mod)**
+| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/threads/135881)               | 0.4   | WIP | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
 | [Sylandro's Planet Warehouse](http://forum.kerbalspaceprogram.com/threads/132467)       | 0.3.3 | Yes | Adds a gas giant and 5 moons.
 | [The Boris System](http://forum.kerbalspaceprogram.com/threads/70018)                   | 0.2.4 | Yes | Adds a gas giant, 3 planets and 12 moons.
 | [The Gliese-581 Star System](http://forum.kerbalspaceprogram.com/threads/137319)        | 0.4   | No  | Adds a star, a gas giant, 3 planets and 4 moons.  **(Requires LibraCORE)**
