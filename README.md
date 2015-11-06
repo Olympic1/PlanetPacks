@@ -16,8 +16,8 @@
 | [Kerbal Outer Bodies Expansion](http://forum.kerbalspaceprogram.com/threads/134098)     |       | No  | **IN DEVELOPMENT**
 | [Kerbal Planetary Expansion](https://kerbalstuff.com/mod/1140)                          | 0.4   | No  | Adds 2 gas giants, a planet and 3 moons.
 | [KerbalGalaxy 2](http://forum.kerbalspaceprogram.com/threads/125078)                    | 0.3.3 | No  | Makes the sun a black hole, adds a black hole, 8 stars, 17 planets, 7 moons and a wormhole.
-| [KerbolPlus](http://forum.kerbalspaceprogram.com/threads/118643)                        | 0.4   | WIP | Adds a gas giant, 6 planets, 14 moons and a comet.
-| [KerbolPlus Remade](http://forum.kerbalspaceprogram.com/threads/138438)                 | 0.4   | WIP | Adds a gas giant, 5 planets and 8 moons.
+| [KerbolPlus](http://forum.kerbalspaceprogram.com/threads/118643)                        | 0.4   | WIP | Adds a gas giant, 5 planets, 12 moons and a comet.
+| [KerbolPlus Remade](http://forum.kerbalspaceprogram.com/threads/138438)                 | 0.4   | WIP | Adds a gas giant, 4 planets, 8 moons and a comet.
 | [Keridani](http://forum.kerbalspaceprogram.com/threads/136903)                          | 0.4   | Soon™ | Adds a star, 4 planets, 6 moons and an asteroid.
 | [Kronkus](http://forum.kerbalspaceprogram.com/threads/132379)                           | 0.4   | Yes | Adds a gas giant and 4 moons.
 | [Ktolemy](http://forum.kerbalspaceprogram.com/threads/137299)                           | 0.4   | No  | Makes Kerbin the center of the Kerbol System and reparents planets.
