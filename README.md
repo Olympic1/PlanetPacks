@@ -35,7 +35,7 @@
 | [Sigma: Jool Recolor](http://forum.kerbalspaceprogram.com/threads/136103)               | 0.4   | No  | Changes Jool to be colored like Jupiter.
 | [Sigma: OPM Recolor](http://forum.kerbalspaceprogram.com/threads/135895)                | 0.4   | No  | Alternate colors for OPM Gas Giants  **(Requires OPM)**
 | [Sigma: OPM Tilt](http://forum.kerbalspaceprogram.com/threads/135899)                   | 0.4   | No  | Gives Urlum (OPM) a 90° axial tilt.  **(Requires OPM)**
-| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/threads/135881)                | 0.4   | WIP | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
+| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/threads/135881)                | 0.4   | Soon™ | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
 | [Sylandro's Planet Warehouse](http://forum.kerbalspaceprogram.com/threads/132467)       | 0.3.3 | Yes | Adds a gas giant and 5 moons.
 | [The Boris System](http://forum.kerbalspaceprogram.com/threads/70018)                   | 0.2.4 | Yes | Adds a gas giant, 3 planets and 12 moons.
 | [The Gliese-581 Star System](http://forum.kerbalspaceprogram.com/threads/137319)        | 0.4   | No  | Adds a star, a gas giant, 3 planets and 4 moons.  **(Requires LibraCORE)**
