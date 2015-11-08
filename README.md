@@ -40,6 +40,6 @@
 | [The Boris System](http://forum.kerbalspaceprogram.com/threads/70018)                   | 0.2.4 | Yes | Adds a gas giant, 3 planets and 12 moons.
 | [The Gliese-581 Star System](http://forum.kerbalspaceprogram.com/threads/137319)        | 0.4   | No  | Adds a star, a gas giant, 3 planets and 4 moons.  **(Requires LibraCORE)**
 | [The Sonne System](http://forum.kerbalspaceprogram.com/threads/137178)                  |       | No  | **IN DEVELOPMENT**
-| [Toy Solar System](http://forum.kerbalspaceprogram.com/threads/137234)                  | 0.4   | No  | Rescales all the planets to 1/10th their size.
+| [Toy Solar System](http://forum.kerbalspaceprogram.com/threads/138640)                  | 0.4   | No  | Rescales all the planets to 1/10th their size.
 | [Trans-Keptunian](http://forum.kerbalspaceprogram.com/threads/109125)                   | 0.0.7 | Yes | Adds 4 planets and 5 moons.
 | [Uncharted Lands](http://forum.kerbalspaceprogram.com/threads/133416)                   | 0.4   | WIP | Rearranges the Kerbol system and changes them completely.
