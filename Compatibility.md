@@ -1,4 +1,4 @@
-This file is more for myself for the progress of adding the planet packs to CKAN.
+This file is more for myself for the progress of adding the planet packs to CKAN.  
 Any help is welcome as I didn't test every planet pack with each other
 
 ---
