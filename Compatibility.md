@@ -6,7 +6,7 @@ Any help is welcome as I didn't test every planet pack with each other
 **Conflicts:**
 * Galactic Neighborhood conflicts with KerbalGalaxy 2 and Kerbal Binary
 * Kerbal Origins conflicts with Kerbol Plus Remade
-* Real Solar System conflicts with any pack that changes the stock system
+* Real Solar System conflicts with any pack that changes the stock system (except when installed with GN)
 * Ktolemy conflicts with any planet pack
 
 ---
