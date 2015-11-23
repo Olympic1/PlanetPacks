@@ -32,11 +32,11 @@
 | [Saru Planet Pack](http://forum.kerbalspaceprogram.com/threads/132453)                  |       | No  | **IN DEVELOPMENT**
 | [Sentar Expansion](http://forum.kerbalspaceprogram.com/threads/130329)                  | 0.3.3 | Yes | Adds a gas giant, 4 planets and 7 moons.
 | [Sido's Urania System](http://forum.kerbalspaceprogram.com/threads/66882)               | 0.4   | Yes | Adds a gas giant, 6 planets and 8 moons.
-| [Sigma: Eve Recolor](http://forum.kerbalspaceprogram.com/threads/136075)                | 0.4   | No  | Changes Eve to be colored like Venus.
-| [Sigma: Jool Recolor](http://forum.kerbalspaceprogram.com/threads/136103)               | 0.4   | No  | Changes Jool to be colored like Jupiter.
-| [Sigma: OPM Recolor](http://forum.kerbalspaceprogram.com/threads/135895)                | 0.4   | Yes  | Alternate colors for OPM Gas Giants  **(Requires OPM)**
-| [Sigma: OPM Tilt](http://forum.kerbalspaceprogram.com/threads/135899)                   | 0.4   | Yes  | Gives Urlum (OPM) a 90° axial tilt.  **(Requires OPM)**
-| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/threads/135881)                | 0.4   | Yes | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
+| [Sigma: Eve Recolor](http://forum.kerbalspaceprogram.com/threads/136075)                | 0.5.2   | No  | Changes Eve to be colored like Venus.
+| [Sigma: Jool Recolor](http://forum.kerbalspaceprogram.com/threads/136103)               | 0.5.2   | No  | Changes Jool to be colored like Jupiter.
+| [Sigma: OPM Recolor](http://forum.kerbalspaceprogram.com/threads/135895)                | 0.5.2   | Yes  | Alternate colors for OPM Gas Giants  **(Requires OPM)**
+| [Sigma: OPM Tilt](http://forum.kerbalspaceprogram.com/threads/135899)                   | 0.5.2   | Yes  | Gives Urlum (OPM) a 90° axial tilt.  **(Requires OPM)**
+| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/threads/135881)                | 0.5.2   | Yes | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
 | [Sylandro's Planet Warehouse](http://forum.kerbalspaceprogram.com/threads/132467)       | 0.3.3 | Yes | Adds a gas giant and 5 moons.
 | [The Boris System](http://forum.kerbalspaceprogram.com/threads/70018)                   | 0.2.4 | Yes | Adds a gas giant, 3 planets and 12 moons.
 | [The Gliese-581 Star System](http://forum.kerbalspaceprogram.com/threads/137319)        | 0.4   | No  | Adds a star, a gas giant, 3 planets and 4 moons.  **(Requires LibraCORE)**
