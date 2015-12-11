@@ -9,7 +9,6 @@
 | [Astro's Kopernicus Planets](http://forum.kerbalspaceprogram.com/index.php?/topic/111179-/)       |       | No  | **IN DEVELOPMENT**
 | [Billiard's Planet Pack](https://kerbalstuff.com/mod/1239)                                        | 0.5.2 | No  | Adds really small planets to the Kerbol system.
 | [Chani Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/116250-/)                | 0.2.4 | Yes | Adds a lava planet, a gas giant and 5 moons.
-| [Winter Kerbol](http://forum.kerbalspaceprogram.com/index.php?/topic/127181-/)                    | 0.5.2 | No  | Covers Kerbin completely in snow and changes Jool into a colorfull christmas ball.
 | [Dark Days](http://forum.kerbalspaceprogram.com/index.php?/topic/120543-/)                        |       | No  | **IN DEVELOPMENT**
 | [Galactic Neighborhood](http://forum.kerbalspaceprogram.com/index.php?/topic/116058-/)            | 0.4   | -   | Integration of multiple planet packs in the same game.
 | [Jungis Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/123992-/)               | 0.4   | Yes | Adds a gas giant, 14 moons and a sub-moon.
@@ -49,3 +48,4 @@
 | [Toy Solar System](http://forum.kerbalspaceprogram.com/index.php?/topic/124680-/)                 | 0.5.2 | No  | Rescales all the planets to 1/10th their size.
 | [Trans-Keptunian](http://forum.kerbalspaceprogram.com/index.php?/topic/98346-/)                   | 0.0.7 | Yes | Adds 4 planets and 5 moons.
 | [Uncharted Lands](http://forum.kerbalspaceprogram.com/index.php?/topic/120111-/)                  | 0.4   | WIP | Rearranges the Kerbol system and changes them completely.
+| [Winter Kerbol](http://forum.kerbalspaceprogram.com/index.php?/topic/127181-/)                    | 0.5.2 | No  | Covers Kerbin completely in snow and changes Jool into a colorfull christmas ball.
