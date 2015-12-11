@@ -9,6 +9,7 @@
 | [Astro's Kopernicus Planets](http://forum.kerbalspaceprogram.com/index.php?/topic/111179-/)       |       | No  | **IN DEVELOPMENT**
 | [Billiard's Planet Pack](https://kerbalstuff.com/mod/1239)                                        | 0.5.2 | No  | Adds really small planets to the Kerbol system.
 | [Chani Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/116250-/)                | 0.2.4 | Yes | Adds a lava planet, a gas giant and 5 moons.
+| [Winter Kerbol](http://forum.kerbalspaceprogram.com/index.php?/topic/127181-/)                    | 0.5.2 | No  | Covers Kerbin completely in snow and changes Jool into a colorfull christmas ball.
 | [Dark Days](http://forum.kerbalspaceprogram.com/index.php?/topic/120543-/)                        |       | No  | **IN DEVELOPMENT**
 | [Galactic Neighborhood](http://forum.kerbalspaceprogram.com/index.php?/topic/116058-/)            | 0.4   | -   | Integration of multiple planet packs in the same game.
 | [Jungis Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/123992-/)               | 0.4   | Yes | Adds a gas giant, 14 moons and a sub-moon.
@@ -31,7 +32,7 @@
 | [Real Solar System](http://forum.kerbalspaceprogram.com/index.php?/topic/50471-/)                 | 0.5.2 | Yes | Changes the Kerbol system to our own Solar System.
 | [RHAT's Planet pack](http://RPMKSP.COMOJ.COM)                                                     | 0.2.4 | Yes | Adds a new gas giant.
 | [RSS Expanded](http://forum.kerbalspaceprogram.com/index.php?/topic/116275-/)                     | 0.4   | Yes | Adds 2 planets, 12 moons, 6 asteroids and a comet to RSS.  **(Requires Real Solar System)**
-| [Saru Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/119263-/)                 |       | No  | **IN DEVELOPMENT**
+| [Saru Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/119263-/)                 | 0.5.2 | No  | Adds a gas giant and 4 moons.
 | [Sentar Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/117355-/)                 | 0.3.3 | Yes | Adds a gas giant, 4 planets and 7 moons.
 | [Sido's Urania System](http://forum.kerbalspaceprogram.com/index.php?/topic/60733-/)              | 0.4   | Yes | Adds a gas giant, 6 planets and 8 moons.
 | [Sigma: Dimensions](http://forum.kerbalspaceprogram.com/index.php?/topic/126548-/)                |       | No  | **IN DEVELOPMENT**
