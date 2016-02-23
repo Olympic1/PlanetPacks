@@ -36,13 +36,14 @@
 | [Saru Planet Pack](http://forum.kerbalspaceprogram.com/index.php?/topic/119263-/)                 | 0.5.2 | No  | Adds a gas giant and 4 moons.
 | [Sentar Expansion](http://forum.kerbalspaceprogram.com/index.php?/topic/117355-/)                 | 0.3.3 | Yes | Adds a gas giant, 4 planets and 7 moons.
 | [Sido's Urania System](http://forum.kerbalspaceprogram.com/index.php?/topic/60733-/)              | 0.4   | Yes | Adds a gas giant, 6 planets and 8 moons.
-| [Sigma: Dimensions](http://forum.kerbalspaceprogram.com/index.php?/topic/126548-/)                | 0.6.3 | No  | Resizes every body in KSP using an modifiable scale.
+| [Sigma Dimensions](http://forum.kerbalspaceprogram.com/index.php?/topic/126548-/)                 | 0.6.3 | No  | Resizes every body in KSP using an modifiable scale.
 | [Sigma: Eve Recolor](http://forum.kerbalspaceprogram.com/index.php?/topic/122481-/)               | 0.6.3 | No  | Changes Eve to be colored like Venus.
 | [Sigma: Jool Recolor](http://forum.kerbalspaceprogram.com/index.php?/topic/122505-/)              | 0.6.3 | No  | Changes Jool to be colored like Jupiter.
 | [Sigma: OPM Recolor](http://forum.kerbalspaceprogram.com/index.php?/topic/122310-/)               | 0.6.3 | Yes | Alternate colors for OPM Gas Giants.  **(Requires OPM)**
 | [Sigma: OPM Tilt](http://forum.kerbalspaceprogram.com/index.php?/topic/122314-/)                  | 0.6.3 | Yes | Gives Urlum (OPM) a 90° axial tilt.  **(Requires OPM)**
-| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/index.php?/topic/122296-/)               | 0.5.2 | Yes | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
+| [Sigma: PluronKhato](http://forum.kerbalspaceprogram.com/index.php?/topic/122296-/)               | 0.6.3 | Yes | Adds 1 planet and 1 moon. (Becomes a binary system when using SigmaBinary)
 | [Small Solar System](https://kerbalstuff.com/mod/1017)                                            | 0.5.2 | No  | Changes the Kerbol system to our own Solar System but with KSP size.  **(Requires RSS-Textures)**
+| [Stock-alike Solar System](http://forum.kerbalspaceprogram.com/index.php/topic/131405-/)          | 0.6.3 | WIP | Recreates the Solar System using stock-alike bodies. **([Required Mods](https://github.com/Sigma88/Stockalike/blob/master/README.md#required-mods))**
 | [Sylandro's Planet Warehouse](http://forum.kerbalspaceprogram.com/index.php?/topic/119275-/)      | 0.3.3 | Yes | Adds a gas giant and 5 moons.
 | [The Boris System](http://forum.kerbalspaceprogram.com/index.php?/topic/63556-/)                  | 0.2.4 | Yes | Adds a gas giant, 3 planets and 12 moons.
 | [The Gliese-581 Star System](http://forum.kerbalspaceprogram.com/index.php?/topic/123541-/)       | 0.4   | No  | Adds a star, a gas giant, 3 planets and 4 moons.  **(Requires LibraCORE)**
